@@ -1,0 +1,28 @@
+origen,destino,peso,sentido
+casuarinas con tulipanes,casuarinas con nardos,,derecha izquierda
+casuarinas con tulipanes,magnolias con tulipanes,,derecha izquierda
+casuarinas con tulipanes,casuarinas con geranios,,derecha izquierda
+casuarinas con geranios,magnolias con geranios,,derecha izquierda
+casuarinas con geranios,casuarinas con alamos,,derecha izquierda
+casuarinas con nardos,casuarinas con begonias,,derecha izquierda
+casuarinas con nardos,magnolias con nardos,,derecha izquierda
+casuarinas con begonias,magnolias con begonias,,derecha izquierda
+magnolias con begonias,magnolias con nardos,,derecha izquierda
+magnolias con begonias,ficus con begonias,,derecha izquierda
+magnolias con nardos,ficus con nardos,,derecha izquierda
+magnolias con nardos,magnolias con tulipanes,,derecha izquierda
+magnolias con tulipanes,magnolias con geranios,,derecha izquierda
+magnolias con tulipanes,ficus con tulipanes,,derecha izquierda
+magnolias con geranios,magnolias con alamos,,derecha izquierda
+magnolias con geranios,ficus con geranios,,derecha izquierda
+magnolias con alamos,casuarinas con alamos,,derecha izquierda
+magnolias con alamos,ficus con alamos,,derecha izquierda
+ficus con begonias,ficus con nardos,,derecha izquierda
+ficus con nardos,ficus con tulipanes,,derecha izquierda
+ficus con tulipanes,ficus con geranios,,derecha izquierda
+ficus con geranios,ficus con alamos,,derecha izquierda
+ficus con alamos,calle country con alamos,,derecha izquierda
+ficus con tulipanes,calle country con tulipanes,,derecha izquierda
+ficus con begonias,calle country con begonias,,derecha izquierda
+calle country con begonias,calle country con tulipanes,,derecha izquierda
+calle country con alamos,calle country con tulipanes,,derecha izquierda

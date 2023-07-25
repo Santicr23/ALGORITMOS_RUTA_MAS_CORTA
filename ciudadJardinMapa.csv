@@ -1,0 +1,28 @@
+origen,destino,peso,sentido
+casuarinas con tulipanes,casuarinas con nardos,67.37,derecha izquierda
+casuarinas con tulipanes,magnolias con tulipanes,141.28,derecha izquierda
+casuarinas con tulipanes,casuarinas con geranios,68.41,derecha izquierda
+casuarinas con geranios,magnolias con geranios,114.34,derecha izquierda
+casuarinas con geranios,casuarinas con alamos,62.37,derecha izquierda
+casuarinas con nardos,casuarinas con begonias,65.47,derecha izquierda
+casuarinas con nardos,magnolias con nardos,162.16,derecha izquierda
+casuarinas con begonias,magnolias con begonias,184.71,derecha izquierda
+magnolias con begonias,magnolias con nardos,59.92,derecha izquierda
+magnolias con begonias,ficus con begonias,104.8,derecha izquierda
+magnolias con nardos,ficus con nardos,135.31,derecha izquierda
+magnolias con nardos,magnolias con tulipanes,59.67,derecha izquierda
+magnolias con tulipanes,magnolias con geranios,60.87,derecha izquierda
+magnolias con tulipanes,ficus con tulipanes,170.51,derecha izquierda
+magnolias con geranios,magnolias con alamos,57.58,derecha izquierda
+magnolias con geranios,ficus con geranios,203.63,derecha izquierda
+magnolias con alamos,casuarinas con alamos,89.25,derecha izquierda
+magnolias con alamos,ficus con alamos,237.51,derecha izquierda
+ficus con begonias,ficus con nardos,59.25,derecha izquierda
+ficus con nardos,ficus con tulipanes,59.26,derecha izquierda
+ficus con tulipanes,ficus con geranios,61.28,derecha izquierda
+ficus con geranios,ficus con alamos,59.35,derecha izquierda
+ficus con alamos,calle country con alamos,138.66,derecha izquierda
+ficus con tulipanes,calle country con tulipanes,175.34,derecha izquierda
+ficus con begonias,calle country con begonias,212.9,derecha izquierda
+calle country con begonias,calle country con tulipanes,118,derecha izquierda
+calle country con alamos,calle country con tulipanes,84.43,derecha izquierda
